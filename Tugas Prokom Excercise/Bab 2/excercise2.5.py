@@ -1,1 +1,0 @@
-print('cristiano ronaldo once said, "You love make me strong, your hate make me unstoppable."')
