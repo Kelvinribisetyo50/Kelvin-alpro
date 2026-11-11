@@ -1,0 +1,4 @@
+In Python you can store text in variables.
+In Python you can use loops to repeat actions.
+In Python you can build lists to hold many items.
+In Python you can write functions to reuse code.
